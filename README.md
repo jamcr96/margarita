@@ -1,2 +1,0 @@
-# margarita
-A x repository
